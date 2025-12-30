@@ -1,0 +1,7 @@
+{
+  "name": "請款單-",
+  "description": "An AI-powered expense report assistant that scans receipts and invoices, converting them into Excel-ready data.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
